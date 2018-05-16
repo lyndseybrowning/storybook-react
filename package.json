@@ -1,0 +1,25 @@
+{
+  "name": "storybook-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook -p 9001 -c .storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndseybrowning/storybook-react.git"
+  },
+  "author": "Lyndsey Browning <lbrowning86@gmail.com> (http://lyndseyb.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyndseybrowning/storybook-react/issues"
+  },
+  "homepage": "https://github.com/lyndseybrowning/storybook-react#readme",
+  "devDependencies": {
+    "@storybook/react": "3.4.4",
+    "babel-core": "6.26.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  }
+}
